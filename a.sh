@@ -1,1 +1,2 @@
-git clone https://github.com/saptarshiguha/terrific ~/
+cd ~/
+git clone https://github.com/saptarshiguha/terrific  .
